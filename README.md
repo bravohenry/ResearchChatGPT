@@ -31,7 +31,7 @@ ChatGPT 是一种 AI 语言模型，可以对提供给它的提示生成类似�
 17. [建议提高写作连贯性和流畅性的策略](#17-Strategies-for-Improving-Coherence-and-Flow-in-Writing)
 18. [帮助校对和编辑语法、标点符号和拼写错误](#18-Using-ChatGPT-for-Proofreading-and-Editing-Research-Papers)
 19. [提供关于组织和安排论文结构的建议](#19-Provide-recommendations-for-organizing-and-structuring-the-paper)
-20. [协助整合主要和次要来源]（#20-Using-ChatGPT-Prompts-to-Assist-with-Integrating-Primary-and-Secondary-Sources-in-Research-Paper-Writing）
+20. [协助整合主要和次要来源]（#使用 ChatGPT 提示帮助整合研究论文写作中的主要和次要来源）
 21. [帮助识别和避免研究中的偏见](#21-Using-ChatGPT-to-Help-with-Identifying-and-Avoiding-Bias-in-Research)
 22. [提供关于选择合适的研究参与者或样本的指导](#22-Selecting-Appropriate-Research-Participants-or-Samples)
 23. [协助开发和完善研究工具（例如调查、问卷）]（#23-Using-ChatGPT-Prompts-to-Assist-with-Developing-and-Refining-Research-Instruments）
