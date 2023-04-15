@@ -12,37 +12,37 @@ ChatGPT 是一种 AI 语言模型，可以对提供给它的提示生成类似�
 
 以下是 ChatGPT 如何帮助您进行研究的 50 个示例。
 
-1. [根据关键字或主题领域生成主题想法](#1-Generating-Topic-Ideas-through-ChatGPT-Prompt)
-2. [提供进行综合文献综述的指导](#2-Guidance-on-Conducting-Comprehensive-Literature-Reviews)
-3. [建议适当的研究方法和数据收集技术](#3-Suggesting-Appropriate-Research-Methodologies-and-Data-Collection-Techniques)
-4. [帮助细化和缩小研究问题和假设](#4-Using-ChatGPT-to-Refine-and-Narrow-Research-Questions-and-Hypotheses)
-5. [就写作的清晰度、连贯性和组织性提供反馈](#5-Using-ChatGPT-Prompts-for-Providing-Feedback-on-Writing-Clarity-Coherence-and-Organization)
-6. [提供改进写作风格和语气的建议](#6-Suggestions-for-Improving-Writing-Style-and-Tone)
-7. [帮助制定介绍、结论和论文陈述](#7-Using-ChatGPT-Prompts-to-Develop-Introductions-Conclusions-and-Thesis-Statements)
-8. [为段落生成主题句和要点](#8-Using-ChatGPT-prompts-to-generate-topic-sentences-and-main-points-for-paragraphs)
-9. [协助格式化和引用风格](#9-Types-of-ChatGPT-prompts-for-formatting-and-citation-style)
-10. [就研究结果的有效性和可靠性提供反馈](#10-Using-ChatGPT-prompts-to-provide-feedback-on-the-validity-and-reliability-of-research-findings)
-11. [提出解决研究局限性和差距的策略](#11-Strategies-for-Addressing-Research-Limitations-and-Gaps)
-12. [提供分析和解释研究数据的指南](#12-Guidance-on-Analyzing-and-Interpreting-Research-Data)
-13. [帮助识别和解决研究中潜在的伦理问题](#13-Using-ChatGPT-to-Identify-and-Address-Potential-Ethical-Issues-in-Research)
-14. [提供以清晰简洁的方式呈现研究结果的策略](#14-Strategies-for-Presenting-Research-Findings-in-a-Clear-and-Concise-Manner)
-15. [协助开发表格、图表和其他视觉辅助工具](#15-ChatGPT-Prompt-for-Developing-Tables-Graphs-and-Other-Visual-Aids-in-Research-Paper-Writing)
-16. [对论点的结构和清晰度提供反馈](#16-Using-ChatGPT-to-Achieve-Better-Research-Paper-Writing-Providing-Feedback-on-Structure-and-Clarity-of-Arguments)
-17. [建议提高写作连贯性和流畅性的策略](#17-Strategies-for-Improving-Coherence-and-Flow-in-Writing)
-18. [帮助校对和编辑语法、标点符号和拼写错误](#18-Using-ChatGPT-for-Proofreading-and-Editing-Research-Papers)
-19. [提供关于组织和安排论文结构的建议](#19-Provide-recommendations-for-organizing-and-structuring-the-paper)
-20. [协助整合主要和次要来源]（#使用 ChatGPT 提示帮助整合研究论文写作中的主要和次要来源）
-21. [帮助识别和避免研究中的偏见](#21-Using-ChatGPT-to-Help-with-Identifying-and-Avoiding-Bias-in-Research)
-22. [提供关于选择合适的研究参与者或样本的指导](#22-Selecting-Appropriate-Research-Participants-or-Samples)
-23. [协助开发和完善研究工具（例如调查、问卷）]（#23-Using-ChatGPT-Prompts-to-Assist-with-Developing-and-Refining-Research-Instruments）
-24. [建议分析定性和定量数据的有效策略](#24-Suggest-effective-strategies-for-analyzing-qualitative-and-quantitative-data)
-25. [提供数据清理和准备指南](#25-Guidance-on-Data-Cleaning-and-Preparation)
-26. [就研究结果的相关性和重要性提供反馈](#26-Using-ChatGPT-Prompts-to-Check-Feedback-on-the-Relevance-and-Significance-of-Research-Findings)
-27. [建议识别和解决研究中潜在混杂变量的策略](#27-Strategies-for-Identifying-and-Addressing-Potential-Confounding-Variables-in-Research)
-28. [帮助为研究论文制作引人注目和引人入胜的标题](#28-How-ChatGPT-Prompts-can-Help-with-Crafting-Compelling-and-Engaging-Titles-for-Research-Papers)
-29. [就研究问题和假设的适当性提供反馈](#29-Using-ChatGPT-for-Feedback-on-Research-Questions-and-Hypotheses)
-30. [提供开发有效和相关研究问题的建议](#30-Suggestions-for-Developing-Effective-and-Relevant-Research-Questions)
-31. [提供选择适当研究设计的指导](#31-Guidance-on-Selecting-Appropriate-Research-Designs)
+1. 生成主题想法的ChatGPT提示
+2. 进行综合文献综述的指导
+3. 建议适当的研究方法和数据收集技术
+4. 细化和缩小研究问题和假设的ChatGPT提示
+5. 提供有关写作清晰度、连贯性和组织性的反馈的ChatGPT提示
+6. 改进写作风格和语气的建议
+7. 使用ChatGPT提示开发介绍、结论和论文陈述
+8. 使用ChatGPT提示为段落生成主题句和要点
+9. 格式化和引用风格的ChatGPT提示类型
+10. 就研究结果的有效性和可靠性提供反馈的ChatGPT提示
+11. 解决研究局限性和差距的策略
+12. 分析和解释研究数据的指南
+13. 识别和解决研究中潜在的伦理问题的ChatGPT提示
+14. 以清晰简洁的方式呈现研究结果的策略
+15. 协助开发表格、图表和其他视觉辅助工具的ChatGPT提示
+16. 就论点的结构和清晰度提供反馈的ChatGPT提示
+17. 改善写作连贯性和流畅性的策略
+18. 校对和编辑语法、标点符号和拼写错误的ChatGPT使用
+19. 组织和安排论文结构的建议
+20. 整合主要和次要来源的ChatGPT提示
+21. 使用ChatGPT帮助识别和避免研究中的偏见
+22. 提供选择合适的研究参与者或样本的指导
+23. 使用ChatGPT提示协助开发和完善研究工具（例如调查、问卷）
+24. 提供分析定性和定量数据的有效策略
+25. 提供数据清理和准备的指导
+26. 使用ChatGPT提示就研究结果的相关性和重要性提供反馈
+27. 解决潜在混杂变量的策略
+28. 协助制作引人注目和引人入胜的研究论文标题的ChatGPT提示
+29. 使用ChatGPT提供反馈，以改进研究问题和假设
+30. 提供开发有效和相关研究问题的建议
+31. 提供选择适当研究设计的指导
 32. 协助开展和实施研究
 33. 提出收集和分析数据的有效策略
 34. 协助识别和避免常见的研究陷阱
